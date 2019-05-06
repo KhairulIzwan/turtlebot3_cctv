@@ -2,7 +2,7 @@
   <!-- Dayana Section -->
   <node pkg="rosserial_python"
         type="serial_node.py"
-        name="ax-12_motor_node"
+        name="ax_12_motor_node"
         output="screen">
 
         <!-- ARDUINO -->
