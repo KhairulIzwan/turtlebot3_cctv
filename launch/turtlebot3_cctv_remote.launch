@@ -1,0 +1,4 @@
+<launch>
+  <!-- Syafikah Section -->
+  <include file="$(find turtlebot3_camera)/launch/cameraPi_USB_remote.launch" />
+</launch>
